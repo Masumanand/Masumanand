@@ -1,140 +1,144 @@
-<h1 align="center">Hi, I'm Masum Anand</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI/ML Engineer | Generative AI Developer | Building Intelligent Applications & AI Agents
-</h3>
+# Hi 👋, I'm Masum Anand
 
-<p align="center">
-Passionate about solving real world problems using Artificial Intelligence, Machine Learning, and modern software engineering.
-</p>
+###  AI/ML Engineer | Generative AI Developer • Machine Learning Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Generative+AI+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New!" />
 
-## About Me
-
--  Computer Science Engineering Student
--  Passionate about Artificial Intelligence, Machine Learning & Generative AI
--  Building AI powered applications, enterprise software, and intelligent automation solutions
--  Currently exploring LLMs, AI Agents, RAG, MCP, and Cloud Technologies
--  Open to internships, research collaborations, and open source contributions
+</div>
 
 ---
 
-## Tech Stack
+##  About Me
+
+**“The future belongs to those who can teach machines to think.”**
+
+I'm a Computer Science student passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning** and **Generative AI**.
+
+I enjoy designing scalable applications that solve real world problems from enterprise software to AI powered systems. I'm constantly exploring the latest advancements in LLMs, AI agents and cloud technologies while contributing to projects that create meaningful impact. I enjoy exploring machine learning, AI driven applications, and data powered problem solving, while continuously learning and growing in this fast evolving field.
+
+I believe in continuous learning, adaptability and building technology that creates real impact.
+---
+
+## Currently Working On
+
+-  EstateFlow  Enterprise Property Management ERP
+-  AI Agents & Multi Agent Systems
+-  Generative AI Applications
+-  Cloud based AI Solutions
+
+---
+
+#  Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+**Also Experienced With**
+
 - Scikit learn
 - XGBoost
 - Pandas
 - NumPy
 - Matplotlib
-- Generative AI
-- AI Agents
 - Prompt Engineering
+- AI Agents
 
 ### Backend
-- FastAPI
-- Flask
-- REST APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
 
 ### Frontend
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
 
-### Databases
-- MongoDB
-- MySQL
-- SQLite
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
 
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
-- VS Code
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+</p>
 
 ---
 
 # Featured Projects
 
-## 🏢 EstateFlow-Enterprise Property Management ERP
+##  EstateFlow
+Enterprise grade Property Management ERP designed for organizations to efficiently manage properties, users, tenants, tasks and operations through a scalable multi tenant architecture.
 
-An enterprise grade multi tenant Property Management ERP designed for organizations to manage properties, users, tenants, and operations efficiently.
-
-### Highlights
-
-- Multi Organization Architecture
-- Role Based Access Control (RBAC)
+### Key Features
+- MultiTenant Architecture
 - Organization Isolation
+- Role-Based Access Control
 - Authentication & Authorization
-- Property & Tenant Management
-- Task Assignment System
+- Task Management
 - Audit Logs
-- Responsive Admin Dashboard
-- Scalable Backend Architecture
+- Property & Tenant Management
+- Responsive Dashboard
 
 **Tech Stack**
 
-FastAPI • React • Next.js • MongoDB • JWT • Docker
+FastAPI • React • Next.js • MongoDB • Docker
 
 ---
 
 ## 💧 AquaPredict
+AI powered water quality prediction platform leveraging machine learning to analyze water parameters and provide predictive insights through an intuitive dashboard.
 
-An AI powered water quality prediction platform that analyzes water parameters and predicts quality using machine learning models.
-
-### Features
-
-- Water Quality Prediction
-- Interactive Dashboard
-- ML powered Analysis
-- REST APIs
+**Highlights**
+- Machine Learning Prediction
 - Data Visualization
+- REST APIs
+- Interactive Dashboard
 
 **Tech Stack**
 
-Python • FastAPI • React • Machine Learning
+Python • FastAPI • React • Scikit-learn
 
 ---
 
-## 🎓 Student Performance Predictor
+## Student Performance Predictor
+Machine Learning application that predicts student academic performance using educational and demographic datasets.
 
-A machine learning project that predicts student academic performance based on multiple educational and demographic factors.
-
-### Features
-
-- Data Preprocessing
+**Highlights**
+- Data Analysis
 - Feature Engineering
 - Model Training
-- Performance Evaluation
 - Prediction Interface
 
 **Tech Stack**
 
-Python • Scikit learn • Pandas • XGBoost
+Python • Pandas • Scikit-learn • XGBoost
 
 ---
 
 ## 🥗 NutriMind
+AI powered nutrition assistant designed to deliver personalized meal recommendations and intelligent dietary guidance.
 
-An AI powered nutrition assistant designed to provide personalized dietary insights and smarter food recommendations.
-
-### Features
-
-- Personalized Nutrition Suggestions
-- AI-powered Recommendations
-- Health-focused User Experience
-- Intelligent Meal Guidance
+**Highlights**
+- Personalized Nutrition
+- AI Recommendations
+- User friendly Interface
+- Intelligent Health Insights
 
 **Tech Stack**
 
@@ -142,37 +146,82 @@ Python • FastAPI • React • Generative AI
 
 ---
 
-##  Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- AI Agents & Multi Agent Systems
-- Model Context Protocol (MCP)
-- Cloud Computing
-- System Design
-- Docker & DevOps
-
----
-
-## 🎯 Areas of Interest
+# 🎯 Interests
 
 - Artificial Intelligence
 - Machine Learning
 - Generative AI
 - AI Agents
-- Backend Development
+- Backend Engineering
 - Intelligent Automation
 - Enterprise Software
 - Open Source
 
 ---
 
-##🌐 Connect with Me
+# 📈 GitHub Analytics
 
-- 💼 LinkedIn: www.linkedin.com/in/masum-anand-4b9362232
-- 📧 Email: masum.sn.1234@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masumanand&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masumanand&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masumanand&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masumanand&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Masumanand&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="www.linkedin.com/in/masum-anand-4b9362232">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:masum.sn.1234@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+###  "Building intelligent systems that solve real world problems."
+
+ If you like my work, consider starring my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=Masumanand&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
 
 <p align="center">
  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
