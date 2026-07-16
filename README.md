@@ -10,7 +10,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 **“The future belongs to those who can teach machines to think.”**
 
@@ -18,7 +18,8 @@ I'm a Computer Science student passionate about building intelligent software us
 
 I enjoy designing scalable applications that solve real world problems from enterprise software to AI powered systems. I'm constantly exploring the latest advancements in LLMs, AI agents and cloud technologies while contributing to projects that create meaningful impact. I enjoy exploring machine learning, AI driven applications, and data powered problem solving, while continuously learning and growing in this fast evolving field.
 
-I believe in continuous learning, adaptability and building technology that creates real impact.
+I believe in continous learning , adaptability and building technology that creates real impact.
+
 ---
 
 ## Currently Working On
@@ -179,9 +180,6 @@ Python • FastAPI • React • Generative AI
 ###  "Building intelligent systems that solve real world problems."
 
  If you like my work, consider starring my repositories!
-
-<img src="https://komarev.com/ghpvc/?username=Masumanand&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </div>
 
 <p align="center">
