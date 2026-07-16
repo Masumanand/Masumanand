@@ -167,24 +167,6 @@ Python • FastAPI • React • Generative AI
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masumanand&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masumanand&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masumanand&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ##🌐 Connect with Me
 
 - 💼 LinkedIn: www.linkedin.com/in/masum-anand-4b9362232
