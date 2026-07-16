@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Masum Anand
+# Hi there, I'm Masum Anand
 
 ###  AI/ML Engineer | Generative AI Developer • Machine Learning Enthusiast
 
