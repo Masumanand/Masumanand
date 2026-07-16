@@ -89,7 +89,7 @@ Enterprise grade Property Management ERP designed for organizations to efficient
 ### Key Features
 - MultiTenant Architecture
 - Organization Isolation
-- Role-Based Access Control
+- Role Based Access Control
 - Authentication & Authorization
 - Task Management
 - Audit Logs
@@ -128,7 +128,7 @@ Machine Learning application that predicts student academic performance using ed
 
 **Tech Stack**
 
-Python • Pandas • Scikit-learn • XGBoost
+Python • Pandas • Scikit learn • XGBoost
 
 ---
 
