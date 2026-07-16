@@ -163,7 +163,7 @@ Python • FastAPI • React • Generative AI
 
 <p>
 
-<a href="www.linkedin.com/in/masum-anand-4b9362232">
+<a href="https://www.linkedin.com/in/masum-anand-4b9362232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
