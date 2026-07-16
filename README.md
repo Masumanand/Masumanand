@@ -179,9 +179,9 @@ Python • FastAPI • React • Generative AI
 
 ###  "Building intelligent systems that solve real world problems."
 
- If you like my work, consider starring my repositories!
+ If you like my work, consider starring my repositories.
 </div>
 
 <p align="center">
- Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
 </p>
