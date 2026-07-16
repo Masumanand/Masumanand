@@ -4,7 +4,7 @@
 
 ###  AI/ML Engineer | Generative AI Developer • Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Generative+AI+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Generative+AI+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
 
 </div>
 
