@@ -10,7 +10,7 @@ Passionate about solving real world problems using Artificial Intelligence, Mach
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 -  Computer Science Engineering Student
 -  Passionate about Artificial Intelligence, Machine Learning & Generative AI
@@ -67,14 +67,14 @@ Passionate about solving real world problems using Artificial Intelligence, Mach
 
 # Featured Projects
 
-## 🏢 EstateFlow – Enterprise Property Management ERP
+## 🏢 EstateFlow-Enterprise Property Management ERP
 
-An enterprise-grade multi tenant Property Management ERP designed for organizations to manage properties, users, tenants, and operations efficiently.
+An enterprise grade multi tenant Property Management ERP designed for organizations to manage properties, users, tenants, and operations efficiently.
 
 ### Highlights
 
 - Multi Organization Architecture
-- Role-Based Access Control (RBAC)
+- Role Based Access Control (RBAC)
 - Organization Isolation
 - Authentication & Authorization
 - Property & Tenant Management
