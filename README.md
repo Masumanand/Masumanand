@@ -22,15 +22,6 @@ I believe in continous learning , adaptability and building technology that crea
 
 ---
 
-## Currently Working On
-
--  EstateFlow  Enterprise Property Management ERP
--  AI Agents & Multi Agent Systems
--  Generative AI Applications
--  Cloud based AI Solutions
-
----
-
 #  Tech Stack
 
 ### Languages
@@ -47,13 +38,7 @@ I believe in continous learning , adaptability and building technology that crea
 
 **Also Experienced With**
 
-- Scikit learn
-- XGBoost
-- Pandas
-- NumPy
-- Matplotlib
-- Prompt Engineering
-- AI Agents
+- Scikit learn, XGBoost, Pandas, NumPy, Matplotlib, Prompt Engineering, AI Agents
 
 ### Backend
 
@@ -80,72 +65,16 @@ I believe in continous learning , adaptability and building technology that crea
 </p>
 
 ---
+##  Featured Projects
 
-# Featured Projects
+- **[EstateFlow](https://github.com/Masumanand/EstateFlow)**: Enterprise Property Management ERP built with FastAPI, React, Next.js and MongoDB, featuring multi tenant architecture, RBAC, task management and audit logging.
 
-##  EstateFlow
-Enterprise grade Property Management ERP designed for organizations to efficiently manage properties, users, tenants, tasks and operations through a scalable multi tenant architecture.
+- **[AquaPredict](https://github.com/Masumanand/AquaPredict)**: AI driven water quality prediction platform that combines machine learning, interactive visualizations and REST APIs to deliver actionable environmental insights.
 
-### Key Features
-- MultiTenant Architecture
-- Organization Isolation
-- Role Based Access Control
-- Authentication & Authorization
-- Task Management
-- Audit Logs
-- Property & Tenant Management
-- Responsive Dashboard
+- **[Student Performance Predictor](https://github.com/Masumanand/Student-Performance-Predictor)**: Predicts student academic performance using data preprocessing, feature engineering and ensemble machine learning models.
 
-**Tech Stack**
+- **[NutriMind](https://github.com/Masumanand/NutriMind)**: Intelligent nutrition assistant leveraging Generative AI to provide personalized meal plans, dietary recommendations and healthy lifestyle guidance.
 
-FastAPI • React • Next.js • MongoDB • Docker
-
----
-
-## 💧 AquaPredict
-AI powered water quality prediction platform leveraging machine learning to analyze water parameters and provide predictive insights through an intuitive dashboard.
-
-**Highlights**
-- Machine Learning Prediction
-- Data Visualization
-- REST APIs
-- Interactive Dashboard
-
-**Tech Stack**
-
-Python • FastAPI • React • Scikit-learn
-
----
-
-## Student Performance Predictor
-Machine Learning application that predicts student academic performance using educational and demographic datasets.
-
-**Highlights**
-- Data Analysis
-- Feature Engineering
-- Model Training
-- Prediction Interface
-
-**Tech Stack**
-
-Python • Pandas • Scikit learn • XGBoost
-
----
-
-## 🥗 NutriMind
-AI powered nutrition assistant designed to deliver personalized meal recommendations and intelligent dietary guidance.
-
-**Highlights**
-- Personalized Nutrition
-- AI Recommendations
-- User friendly Interface
-- Intelligent Health Insights
-
-**Tech Stack**
-
-Python • FastAPI • React • Generative AI
-
----
 
 # 🎯 Interests
 
