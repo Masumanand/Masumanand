@@ -159,19 +159,13 @@ Python • FastAPI • React • Generative AI
 - Open Source
 ---
 
-# Connect With Me
+## 📬 Connect With Me
 
-<p>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/masum-anand-4b9362232">linkedin.com/in/masum-anand-4b9362232</a>
 
-## 🌐 Connect with Me
+- **Instagram:** <a href="https://www.instagram.com/igmasum.x">@igmasum.x</a>
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20">](https://linkedin.com/in/masum-anand-4b9362232) in/masum-anand-4b9362232
-
-[<img src="https://cdn.simpleicons.org/github/ffffff" width="20">](https://github.com/Masumanand) github.com/Masumanand
-
-[<img src="https://cdn.simpleicons.org/instagram/E4405F" width="20">](https://instagram.com/igmasum.X) masumanand
-
-</p>
+- **Email:** <a href="mailto:masum.sn.1234@gmail.com">masum.sn.1234@gmail.com</a>
 
 ---
 
