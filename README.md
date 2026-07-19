@@ -90,7 +90,7 @@ I believe in continous learning , adaptability and building technology that crea
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/masum-anand-4b9362232">linkedin.com/in/masum-anand-4b9362232</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/masum-anand-4b9362232">linkedin.com/in/masumanand</a>
 
 - **Instagram:** <a href="https://www.instagram.com/igmasum.x">@igmasum.x</a>
 
